@@ -86,7 +86,7 @@ a:hover {
 
 
 .social a {
-  opacity: 0.9;
+  opacity: 0.3;
   transition: opacity .25s ease-in-out;
    -moz-transition: opacity .25s ease-in-out;
    -webkit-transition: opacity .25s ease-in-out;
